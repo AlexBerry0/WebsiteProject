@@ -1,0 +1,52 @@
+@charset "utf-8";
+/* CSS Document */
+
+h1 {
+text-align: center;
+color: lightgray;
+letter-spacing: 4px;
+line-height: 1.9;
+font-size: 40px;
+font-family:Times
+}
+
+h2 {
+text-align: center;
+color: lightgray;
+letter-spacing: 2px;
+line-height: 1.8;
+font-family:Times;
+}
+
+p {
+text-align: center;
+color: lightgray;
+line-height: 1;
+font-family: Calibri
+}
+
+a{
+text-align: center;
+line-height: 1;
+font-family: Calibri
+}
+
+hr {
+	width: 80%;
+	height: 8px;
+	margin-left: auto;
+	margin-right: auto;
+	background-color:#666;
+	border: 0 none;margin-top: 100px;
+	margin-bottom:100px;
+}
+
+
+.img-container {text-align: center;}
+
+div {text-align: center;}
+
+
+body {
+	background: #121212
+}
